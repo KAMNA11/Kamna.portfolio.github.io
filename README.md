@@ -44,6 +44,7 @@ Developed 3 dashboards using Power BI , showing Key Metrics which were created u
 **TATA– Data Visualization: Empowering Business with effective insights**
 
 *Case Overview* - An online reatail store hired you as a consultant to review their data and provide insights that would be valuable to senior management. CEO & CMO of company need insights on their Online Reatil Store. The senior management wants to understand how their business is performing and what areas are the key strengths of the company. They are also focused on identifying opportunities that would lead to growth and generate more revenue in the future. As a result, they require a dashboard that can clearly and simply explain and display data and insights.
+
 Tool Used - **Power BI**
 
 [Project](https://github.com/KAMNA11/Tata_Data_Visualization_Virtual_Experience_Programme)
@@ -58,6 +59,7 @@ Tools Used - **Excel** and **Power BI**
 [Project](https://github.com/KAMNA11/Accenture_Data_Analytics_and_Visualization_Virtual_Experience)
 
 **KPMG - Data Analytics**
+
 *Case Overview* - Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisation, has approached Tony Smith (Partner) in KPMG’s Lighthouse & Innovation Team. Sprocket Central Pty Ltd is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team.
  
 Tool Used - **Excel**
@@ -68,12 +70,31 @@ Tool Used - **Excel**
 
 Having clean data will ultimately increase overall productivity and allow for the highest quality information in decision-making.This project focuses on data cleaning using Pyhton library **Pandas**.
 
-Tool used - **Anaconda Navigator, Jupyter Notebook**
+Tool used - **Anaconda Navigator - Jupyter Notebook**
 
-Language - **Python** , **Pandas**  
+Language - **Python - Pandas**  
 
 [Project](https://github.com/KAMNA11/Data_Cleaning_Using_Pandas/blob/main/Data%20Cleaning%20.ipynb)
 
+**Waste Water Management**
+
+This project focuses on getting insights from three datasets used in the project. The objectives of this project is to identify which industry is producing most wastewater and which water treatement plant is most efficient.
+
+Tool used - **Anaconda Navigator - Jupyter Notebook**
+
+Language - **Python - Plotly**
+
+[Project](https://github.com/KAMNA11/Waste_Water_Management_Project/blob/main/Waste%20Water%20Management.ipynb)
+
+**Swiggy Exploratory Data Analysis**
+
+The main of performing exploratory data analysis is to analyze Swiggy's data set and summarize their main characteristics. 
+
+Tool Used - **MySQL**
+
+Language - **SQL**
+
+[Project](https://github.com/KAMNA11/Swiggy_Data_Analysis/blob/main/Swiggy_Data_Analysis.sql)
 
 # Languages 
 
