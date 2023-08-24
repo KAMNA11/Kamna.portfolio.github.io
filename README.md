@@ -22,5 +22,5 @@ Excel, SQL, Power BI, Python, Python Libraraies -  NumPy, Pandas, Matplotlib, Se
 
 # Projects
 
-**PwC - Data Visualization: Power BI 
+*PwC - Data Visualization: Power BI 
 
