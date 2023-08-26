@@ -3,31 +3,31 @@
 ## Education
 
 ### Delhi School of Business - VIPS Technical Campus
-Post Graduate Diploma in Management (PGDM)                            - June 2019 - June 2021
+Post Graduate Diploma in Management (PGDM)                              - June 2019 - June 2021
 
 Dual Specialization - Data Analytics and Marketing
 
 ### Amity University
-Bachelor of Science (BSc)                                            - August 2014 - August 2017
+Bachelor of Science (BSc)                                              - August 2014 - August 2017
 
 Major: Information Technology
 
 ### Greenway Modern School
-Higher Secondary                                                     - July 2013 - July 2014
+Higher Secondary                                                       - July 2013 - July 2014
 
 # Skills
 Excel, SQL, Power BI, Python, Python Libraraies -  NumPy, Pandas, Matplotlib, Seaborn and Plotly
 
 # Certifications
-* Python for Beginners:			                                                     Great Learning Academy 
-* Data Analysis with Python:			                                               Coursera, IBM
-* Machine Learning for Python:		                                               Coursera, IBM
-* Python for Data Science, AI & Development:	                                   Coursera, IBM
-* SQL for Data Professionals                                                     Code Basics
-* PwC - Power BI                                                                 Forage
-* TATA – Data Visualization: Empowering Business with effective insights         Forage
-* Accenture - Data Analystics and Visualization                                  Forage
-* KPMG - Data Analytics                                                          Forage
+* Python for Beginners:			                                                        Great Learning Academy 
+* Data Analysis with Python:			                                                   Coursera, IBM
+* Machine Learning for Python:		                                                  Coursera, IBM
+* Python for Data Science, AI & Development:	                                     Coursera, IBM
+* SQL for Data Professionals:                                                     Code Basics
+* PwC - Power BI:                                                                 Forage
+* TATA – Data Visualization: Empowering Business with effective insights:         Forage
+* Accenture - Data Analystics and Visualization:                                  Forage
+* KPMG - Data Analytics:                                                          Forage
 
 
 # Projects
